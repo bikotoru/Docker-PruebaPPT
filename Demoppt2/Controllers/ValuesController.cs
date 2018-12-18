@@ -14,7 +14,7 @@ namespace Demoppt2.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "value1", "value2", "Hola Mundo","Chao Diego","Prueba" };
+            return new string[] { "value1", "value2", "Hola Mundo","Chao Diego","Prueba","value3" };
         }
 
         // GET api/values/5
