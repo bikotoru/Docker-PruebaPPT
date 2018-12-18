@@ -1,0 +1,14 @@
+C:\Users\Victor Ureta\source\repos\Demoppt2\Demoppt2\bin\Release\netcoreapp2.1\Demoppt2.deps.json
+C:\Users\Victor Ureta\source\repos\Demoppt2\Demoppt2\bin\Release\netcoreapp2.1\Demoppt2.runtimeconfig.json
+C:\Users\Victor Ureta\source\repos\Demoppt2\Demoppt2\bin\Release\netcoreapp2.1\Demoppt2.runtimeconfig.dev.json
+C:\Users\Victor Ureta\source\repos\Demoppt2\Demoppt2\bin\Release\netcoreapp2.1\Demoppt2.dll
+C:\Users\Victor Ureta\source\repos\Demoppt2\Demoppt2\bin\Release\netcoreapp2.1\Demoppt2.pdb
+C:\Users\Victor Ureta\source\repos\Demoppt2\Demoppt2\obj\Release\netcoreapp2.1\Demoppt2.csprojAssemblyReference.cache
+C:\Users\Victor Ureta\source\repos\Demoppt2\Demoppt2\obj\Release\netcoreapp2.1\Demoppt2.csproj.CoreCompileInputs.cache
+C:\Users\Victor Ureta\source\repos\Demoppt2\Demoppt2\obj\Release\netcoreapp2.1\Demoppt2.RazorAssemblyInfo.cache
+C:\Users\Victor Ureta\source\repos\Demoppt2\Demoppt2\obj\Release\netcoreapp2.1\Demoppt2.RazorAssemblyInfo.cs
+C:\Users\Victor Ureta\source\repos\Demoppt2\Demoppt2\obj\Release\netcoreapp2.1\Demoppt2.AssemblyInfoInputs.cache
+C:\Users\Victor Ureta\source\repos\Demoppt2\Demoppt2\obj\Release\netcoreapp2.1\Demoppt2.AssemblyInfo.cs
+C:\Users\Victor Ureta\source\repos\Demoppt2\Demoppt2\obj\Release\netcoreapp2.1\Demoppt2.RazorTargetAssemblyInfo.cache
+C:\Users\Victor Ureta\source\repos\Demoppt2\Demoppt2\obj\Release\netcoreapp2.1\Demoppt2.dll
+C:\Users\Victor Ureta\source\repos\Demoppt2\Demoppt2\obj\Release\netcoreapp2.1\Demoppt2.pdb
